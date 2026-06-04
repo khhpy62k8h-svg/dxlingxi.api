@@ -40,23 +40,17 @@ Settings → Models
 
 OpenAI Compatible
 
-填写：
+填写以下信息：
 
 ### API Key
 
-填写你刚刚创建的API Key
+填写在灵犀API后台创建的API Key。
 
 ### Base URL
 
-填写灵犀API提供的接口地址
+填写：
 
-例如：
-
-```text
 https://www.dxlingxiapi.top/v1
-```
-
-（以后台文档实际显示为准）
 
 ---
 
@@ -75,9 +69,7 @@ https://www.dxlingxiapi.top/v1
 
 输入：
 
-```text
 你好
-```
 
 正常返回内容即表示配置成功。
 
@@ -90,7 +82,7 @@ https://www.dxlingxiapi.top/v1
 检查：
 
 - API Key是否填写正确
-- Key是否过期
+- API Key是否已失效
 
 ### 提示连接失败
 
@@ -103,11 +95,15 @@ https://www.dxlingxiapi.top/v1
 
 检查：
 
-- 账户余额
-- 模型权限
+- 账户余额是否充足
+- 模型权限是否已开通
 
 ---
 
-官网：
+## 官方网站
 
 https://www.dxlingxiapi.top
+
+## 接口地址
+
+https://www.dxlingxiapi.top/v1
