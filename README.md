@@ -7,6 +7,12 @@
 https://www.dxlingxiapi.top
 
 ---
+🎁 新用户福利
+
+7元购买10元额度
+
+官网：
+https://www.dxlingxiapi.top
 
 ## 🚀 支持模型
 
