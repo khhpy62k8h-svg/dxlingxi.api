@@ -67,8 +67,7 @@ https://www.dxlingxiapi.top/v1
 * gpt-5.5
 * deepseek-v4-pro
 * deepseek-v4-flash
-* claude-opus-4.0
-* claude-sonnet-4.0
+* claude-opus-4-8
 
 ---
 
